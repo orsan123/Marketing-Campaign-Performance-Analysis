@@ -18,6 +18,11 @@ Reporting to the Marketing Manager, a comprehensive review of campaign performan
 
 ## Data Structure
 
+The database structure as seen below consists of 4 main tables  
+- **fact_ad_events**: Stores user interactions and conversion activity generated from advertising campaigns.
+- **dim_ads**: Contains details about individual advertisements, including platform, format, and targeting attributes.
+- **dim_campaigns**: Contains campaign-level information such as budget allocation and campaign identifiers.
+- **dim_users**: Stores user demographic information used for audience and segmentation analysis.
 ![image alt](https://github.com/user-attachments/assets/207ded77-af18-470c-b19e-9988c8e1a933)
 
 ## North Star Metrics
