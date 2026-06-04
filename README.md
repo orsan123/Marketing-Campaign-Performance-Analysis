@@ -16,7 +16,7 @@ To improve acquisition efficiency and reduce wasted spend, an analysis was condu
 Reporting to the Marketing Manager, a comprehensive review of campaign performance and customer acquisition behavior was conducted to **uncover inefficient spending patterns** and **identify opportunities for more effective budget allocation** and future campaign scaling
 
 
-## Data Structure
+## Data Structure & ERD (Entity Relationship Diagram)
 
 The database structure as seen below consists of 4 main tables  
 - **fact_ad_events**: Stores user interactions and conversion activity generated from advertising campaigns.
