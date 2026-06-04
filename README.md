@@ -12,3 +12,6 @@
 A marketing team had invested in advertising campaigns across multiple platforms to drive customer acquisition. However the campaigns results varied significantly.
 
 To improve acquisition efficiency and reduce wasted spend, an analysis was conducted to identify which platforms, audience segments and geographic markets demonstrated the strongest conversion performance in the span of 4 months. The goal was to provide data driven recommendations for future budget allocation and campaign scaling.
+
+
+![image alt](https://github.com/user-attachments/assets/207ded77-af18-470c-b19e-9988c8e1a933)
