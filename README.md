@@ -42,3 +42,7 @@ purchase in a campaign.
 the total click traffic within the campaign
 
 - A higher CVR indicates that a larger percentage of users who engaged with a campaign ultimately converted into customers.
+
+## Findings and Insights
+### Campaign Spend Inefficiency  
+[image alt](https://github.com/user-attachments/assets/e74b68c1-a1b0-4ea4-b8b6-e1b487019749)
