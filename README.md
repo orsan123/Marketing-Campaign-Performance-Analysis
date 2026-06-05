@@ -9,7 +9,7 @@
 
 ## Business Scenario
 
-A marketing team had invested in advertising campaigns across multiple platforms to drive customer acquisition. However, campaign performance varied significantly, making it difficult to determine whether marketing budget was being allocated efficiently.
+A marketing team had invested in advertising campaigns across multiple platforms to drive customer acquisition. However, campaign results varied significantly, making it difficult to determine whether marketing budget was being allocated efficiently.
 
 To improve acquisition efficiency and reduce wasted spend, an analysis was conducted to evaluate campaign performance over a **four-month period** and identify the audience segments, platforms, and geographic markets associated with stronger conversion outcomes.
 
