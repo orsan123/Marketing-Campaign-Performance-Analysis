@@ -45,4 +45,4 @@ the total click traffic within the campaign
 
 ## Findings and Insights
 ### Campaign Spend Inefficiency  
-![image alt](https://github.com/user-attachments/assets/5a392ecc-e3b2-41eb-9056-354992ffb35b)
+![image alt](https://github.com/user-attachments/assets/7a2acd5c-a7cd-4dbd-b23b-0b395848c163)
