@@ -28,7 +28,7 @@ The database structure as seen below consists of 4 main tables
 
 ## North Star Metrics
 
-Two main metric were used within this analysis  
+Two main metrics were used within this analysis  
 
 ### To evaluate the efficiency of marketing campaigns  
 **CPA (Cost Per Acquisition)**: The average amount used to acquire a single
