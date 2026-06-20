@@ -11,7 +11,7 @@
 
 A marketing team had invested in advertising campaigns across multiple platforms to drive customer acquisition. However, campaign results varied significantly, making it difficult to determine whether marketing budget was being allocated efficiently.
 
-To improve acquisition efficiency and reduce wasted spend, an analysis was conducted to evaluate campaign performance over a **four-month period** and identify the audience segments, platforms, and geographic markets associated with stronger conversion outcomes.
+To improve acquisition efficiency and reduce wasted spend, an analysis was conducted to evaluate campaign performance over a **four-month period** (May 2025 - Aug 2025) and identify the audience segments, platforms, and geographic markets associated with stronger conversion outcomes.
 
 Reporting to the Marketing Manager, a comprehensive review of campaign performance and customer acquisition behavior was conducted to **uncover inefficient spending patterns** and **identify opportunities for more effective budget allocation** and future campaign scaling
 
