@@ -47,7 +47,7 @@ the total click traffic within the campaign
 ### Campaign Spend Inefficiency  
 
 - Campaign-level performance revealed significant differences in acquisition efficiency across marketing campaigns, suggesting that higher campaign investment did not consistently generate higher purchases
-- Campaign 35 spent approximately **71.6K AED** but generated only **11 purchases**, resulting in a **CPA of 6,511 AED** — the highest acquisition cost among all campaigns.
+- Campaign 35 spent approximately **71.6K AED** but generated only **11 purchases**, resulting in a **CPA of 6,511 AED**, the highest acquisition cost among all campaigns.
 - In contrast, **Campaign 42** generated **67 purchases** on a **budget** of approximately **8K AED**, achieving a **CPA of 118 AED**, demonstrating significantly stronger acquisition efficiency despite operating on a much smaller budget.
 - These findings suggest that marketing budget is not allocated optimally and may present opportunities to improve acquisition efficiency by reallocating budget towards more strongly converting audience segments and markets.
 
