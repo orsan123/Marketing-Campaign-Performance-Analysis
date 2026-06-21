@@ -53,8 +53,6 @@ the total click traffic within the campaign
 
 ![image alt](https://github.com/user-attachments/assets/7fc698a2-6e9e-463a-80ae-c78b567ad3b0)
 
-### Targeting and Scaling Opportunities
-
 ### Targeting & Scaling Opportunities
 
 Since campaign spend alone did not consistently explain acquisition performance, a deeper analysis was conducted across platforms, audience segments, and geographic markets to identify where conversion efficiency was strongest.
