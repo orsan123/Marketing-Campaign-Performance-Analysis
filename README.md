@@ -63,6 +63,10 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 
 #### a) Market-level Analysis  
 
+- Over the three-month analysis period, campaign performance was evaluated across **10 geographic markets** to identify differences in acquisition efficiency.
+- The **United States** accounted for the largest share of acquisition activity, contributing approximately **30% of total click volume**, making it the primary source of campaign traffic.
+- In contrast, **Mexico** and **Japan** each accounted for only **~5% of total click activity**, yet achieved the highest conversion rates (**6.1%** and **6.4%**, respectively). This may indicate the presence of highly responsive audience segments within these markets.
+- The variation in conversion performance across markets suggests that geographic location was associated with acquisition efficiency and should be considered when allocating future campaign budget.
 ![image alt](https://github.com/user-attachments/assets/9d25988c-0fff-4bf7-ba35-3b132c3b1ae8)
 
 #### b) Audience-level Analysis
