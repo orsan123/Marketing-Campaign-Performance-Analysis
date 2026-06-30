@@ -55,7 +55,7 @@ the total click traffic within the campaign
 
 ### 2) Targeting & Scaling Opportunities
 
-Since campaign spend alone did not consistently explain acquisition performance, a deeper analysis was conducted across platforms, audience segments, and geographic markets to identify where conversion efficiency was strongest.
+Since campaign spend alone did not consistently explain acquisition performance, **a deeper analysis was conducted across platforms, audience segments, and geographic markets** to identify where conversion efficiency was strongest.
 
 The objective was to understand which customer segments demonstrated the highest acquisition quality and where future campaign investment could potentially generate stronger returns.
 
