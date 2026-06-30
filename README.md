@@ -60,3 +60,13 @@ Since campaign spend alone did not consistently explain acquisition performance,
 The objective was to understand which customer segments demonstrated the highest acquisition quality and where future campaign investment could potentially generate stronger returns.
 
 The following analysis highlights the platforms, audience cohorts, and geographic markets that exhibited the strongest balance between conversion efficiency and acquisition scale, providing potential opportunities for more effective budget allocation and campaign scaling.
+
+#### a) Market-level Analysis  
+
+![image alt](https://github.com/user-attachments/assets/dc8d00b6-4d32-41fc-8f9c-51efc02e083d)
+
+#### b) Audience-level Analysis
+#### c) Platform-level Analysis
+
+![image alt](https://github.com/user-attachments/assets/dc8d00b6-4d32-41fc-8f9c-51efc02e083d)
+
