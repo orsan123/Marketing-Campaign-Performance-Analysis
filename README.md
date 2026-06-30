@@ -70,6 +70,9 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 ![image alt](https://github.com/user-attachments/assets/9d25988c-0fff-4bf7-ba35-3b132c3b1ae8)
 
 #### b) Audience-level Analysis
+
+![image alt](https://github.com/user-attachments/assets/221e39b9-07e8-4212-b424-0a0f7bae7668)
+
 #### c) Platform-level Analysis
 
 
