@@ -44,7 +44,7 @@ the total click traffic within the campaign
 - A higher CVR indicates that a larger percentage of users who engaged with a campaign ultimately converted into customers.
 
 ## Findings and Insights
-### 1) Inefficiency in Campaign Performance  
+### 1) Inefficiency in Campaign Budget Allocation  
 
 - Campaign-level performance revealed significant differences in acquisition efficiency across marketing campaigns, suggesting that higher campaign investment did not consistently generate higher purchases
 - Campaign 35 spent approximately **71.6K AED** but generated only **11 purchases**, resulting in a **CPA of 6,511 AED**, the highest acquisition cost among all campaigns.
