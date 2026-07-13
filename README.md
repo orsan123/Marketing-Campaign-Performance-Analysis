@@ -71,6 +71,13 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 
 #### b) Audience-level Analysis
 
+- During the three-month analysis period, the **18–24** and **25–34 age cohorts** accounted for the **largest share of overall click activity**, representing the primary source of campaign traffic.
+
+- Despite generating a smaller share of total clicks, the **35–44 age cohort** achieved the **highest conversion rate (5.23%)** while maintaining a meaningful acquisition scale, suggesting an opportunity for further audience targeting and campaign expansion.
+
+- Although the **55–65 age cohort** recorded a similar conversion rate, its substantially lower click volume limits confidence in the result, making it a less reliable indicator for future scaling decisions.
+
+  
 ![image alt](https://github.com/user-attachments/assets/6d1dd752-514d-4266-be52-b84770e77ce8)
 
 #### c) Platform-level Analysis
