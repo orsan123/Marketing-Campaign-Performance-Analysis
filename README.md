@@ -95,3 +95,9 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 
 ## Recommendations
 
+![image alt](https://github.com/user-attachments/assets/7e8087c2-62bc-4162-873b-8c400a660520)
+
+![image alt](https://github.com/user-attachments/assets/1a092a93-79e6-4547-9888-549c631775b7)
+
+![image alt](https://github.com/user-attachments/assets/5c4c56e4-4e16-4dfe-bbb5-9d709f629609)
+
