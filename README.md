@@ -82,5 +82,14 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 
 #### c) Platform-level Analysis
 
+
+* Campaigns were delivered across two advertising platforms: **Facebook** and **Instagram**. Facebook accounted for approximately **63.5%** of all advertisements, while Instagram accounted for the remaining **36.5%**.
+
+* Facebook generated approximately **1.7× more click activity** than Instagram, making it the primary driver of campaign traffic during the analysis period.
+
+* Despite operating at a significantly larger acquisition scale, Facebook maintained a slightly higher conversion rate (**5.21%**) than Instagram (**4.82%**), indicating that conversion efficiency remained comparatively strong as campaign volume increased.
+
+* The relatively small difference in conversion rates suggests that both platforms were effective acquisition channels, although Facebook demonstrated stronger overall performance by combining higher traffic volume with slightly better conversion efficiency.
+
 ![image alt](https://github.com/user-attachments/assets/763b7294-cf29-4997-b06e-ca31d586bcc5)
 
