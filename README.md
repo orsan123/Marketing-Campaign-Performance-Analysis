@@ -98,13 +98,14 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 
 ### The recommendations focuses on **reallocating budget from the low converting segments to the segments with stronger conversion efficiency**.
 
-
+--- 
 ### Platform Recommendation
 
 **Consider reallocating incremental campaign budget toward Facebook while continuously monitoring Cost Per Acquisition (CPA) and conversion efficiency to ensure performance remains sustainable as campaign volume increases.** Although Facebook already operates at a larger acquisition scale, its ability to maintain comparatively strong conversion performance suggests that additional investment may continue to generate efficient acquisition outcomes, provided performance is reviewed and optimized on an ongoing basis.
 
 ![image alt](https://github.com/user-attachments/assets/763b7294-cf29-4997-b06e-ca31d586bcc5)
 
+--- 
 ### Audience Recommendation
 
 **Increase campaign focus on the 35–44 age cohort by allocating a larger share of audience targeting and budget toward this segment.** The cohort demonstrated a strong balance between acquisition scale and conversion efficiency, making it a suitable candidate for further campaign expansion while continuing to monitor performance as investment increases.
