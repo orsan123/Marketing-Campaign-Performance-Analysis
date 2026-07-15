@@ -46,8 +46,8 @@ the total click traffic within the campaign
 ## Findings and Insights
 ### 1) Inefficiency in Campaign Budget Allocation  
 
-- Campaign-level performance revealed significant differences in acquisition efficiency across marketing campaigns, suggesting that higher campaign investment did not consistently generate higher purchases
-- Campaign 35 spent approximately **71.6K AED** but generated only **11 purchases**, resulting in a **CPA of 6,511 AED**, the highest acquisition cost among all campaigns.
+- **Campaign-level performance** revealed significant differences in acquisition efficiency across marketing campaigns, suggesting that **higher campaign investment did not consistently generate higher purchases**
+- Campaign 35 spent approximately **71.6K AED** but generated only **11 purchases**, resulting in a **CPA of 6,511 AED** — the highest acquisition cost among all campaigns.
 - In contrast, **Campaign 42** generated **67 purchases** on a **budget** of approximately **8K AED**, achieving a **CPA of 118 AED**, demonstrating significantly stronger acquisition efficiency despite operating on a much smaller budget.
 - These findings suggest that marketing budget is not allocated optimally and may present opportunities to improve acquisition efficiency by reallocating budget towards more strongly converting audience segments and markets.
 
@@ -55,9 +55,9 @@ the total click traffic within the campaign
 
 ### 2) Targeting & Scaling Opportunities
 
-Since campaign spend alone did not consistently explain acquisition performance, **a deeper analysis was conducted across platforms, audience segments, and geographic markets** to identify where conversion efficiency was strongest.
+Since campaign spend alone did not consistently explain acquisition performance, a deeper analysis was conducted across platforms, audience segments, and geographic markets to identify where conversion efficiency was strongest.
 
-The objective was to understand which customer segments demonstrated the highest acquisition quality and where future campaign investment could potentially generate stronger returns.
+The objective was to understand **which customer segments demonstrated the highest acquisition quality** and where future campaign investment could potentially generate stronger returns.
 
 The following analysis highlights the platforms, audience cohorts, and geographic markets that exhibited the strongest balance between conversion efficiency and acquisition scale, providing potential opportunities for more effective budget allocation and campaign scaling.
 
@@ -75,7 +75,7 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 
 - Despite generating a smaller share of total clicks, the **35–44 age cohort** achieved the **highest conversion rate (5.23%)** while maintaining a meaningful acquisition scale, suggesting an opportunity for further audience targeting and campaign expansion.
 
-- Although the **55–65 age cohort** recorded a similar conversion rate, its substantially lower click volume limits confidence in the result, making it a less reliable indicator for future scaling decisions.
+- Although the **55–65 age cohort** recorded a similar conversion rate, its **substantially lower click volume limits confidence** in the result, making it a less reliable indicator for future scaling decisions.
 
   
 ![image alt](https://github.com/user-attachments/assets/6d1dd752-514d-4266-be52-b84770e77ce8)
@@ -89,7 +89,7 @@ The following analysis highlights the platforms, audience cohorts, and geographi
 
 * Despite operating at a significantly larger acquisition scale, Facebook maintained a slightly higher conversion rate (**5.21%**) than Instagram (**4.82%**), indicating that conversion efficiency remained comparatively strong as campaign volume increased.
 
-* The relatively small difference in conversion rates suggests that both platforms were effective acquisition channels, although Facebook demonstrated stronger overall performance by combining higher traffic volume with slightly better conversion efficiency.
+* The relatively small difference in conversion rates suggests that both platforms were effective acquisition channels, although **Facebook demonstrated stronger overall performance by combining higher traffic volume with slightly better conversion efficiency**.
 
 ![image alt](https://github.com/user-attachments/assets/763b7294-cf29-4997-b06e-ca31d586bcc5)
 
